@@ -59,5 +59,19 @@ The focus was on building a coherent data pipeline from raw inputs to decision-r
 ## Limitations & Learnings
 As a foundational project, the solution prioritizes exploratory analysis and visualization over enterprise-grade data modeling and stakeholder-driven KPI validation. If rebuilt today, the project would incorporate clearer business requirements, standardized KPI definitions, and stronger normalization to better support scalability and decision governance.
 
+## Walkthrough Demo
+
+[**Final Project Walkthrough Video**](https://github.com/Vaibhav0000/foundational-analytics-college-selection-dashboard/blob/main/media/College%20Dashboard.mp4)
+
+> Includes full explanation of methodology, findings, and dashboard tour.
+
+---
+## Contact
+
+**Vaibhav Nangia**  
+👨‍💼 Business Data Analyst | PMP-Certified Project Manager | BI Storyteller  
+🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavnangia08050805/)  
+📧 [Email](mailto:nangiavaibhav9@gmail.com)
+---
 ## Notes
 This project represents an early-stage analytics exercise and reflects the development of core analytical thinking, data handling, and visualization skills.
