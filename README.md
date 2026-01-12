@@ -1,3 +1,4 @@
+![Dashboard Preview](assets/CollegeDashboard-gif.gif)
 # Foundational Analytics Project: College Selection Decision Dashboard
 
 ## Project Type: Foundational / Learning Analytics Project
