@@ -1,7 +1,9 @@
-![Dashboard Preview](assets/CollegeDashboard-gif.gif)
 # Foundational Analytics Project: College Selection Decision Dashboard
+<p align="center">
+  <img src="assets/CollegeDashboard-gif.gif" width="80%" />
+</p>
 
-## Project Type: Foundational / Learning Analytics Project
+## Foundational / Learning Analytics Project
 
 ## Business Problem
 Prospective international students often rely heavily on university rankings when selecting colleges, but rankings alone lack geographic and regional context. Factors such as region, environment, proximity to facilities, and surrounding infrastructure significantly influence student life, employment opportunities, and overall well-being. The absence of integrated geographic insights makes informed decision-making difficult.
